@@ -62,7 +62,7 @@
     <a href="https://pjreddie.com/darknet/yolo/"> <img alt="yolo" src="./images/yolo.svg" width="36px" /> &ensp;&ensp;</a>
     <a href="https://www.metasploit.com/"> <img alt="metasploit" src="./images/metasploit.svg" width="36px" /> &ensp;&ensp;</a>
     <a href="https://nmap.org/"> <img alt="nmap" src="./images/nmap.svg" width="50px" /> &ensp;&ensp;</a>
-    <a href="https://www.maltego.com/"> <img alt="maltego" src="./images/maltego.svg" width="50px" />&ensp;</a>
+    <a href="https://www.maltego.com/"> <img alt="maltego" src="./images/maltego.svg" height="50px" width="70px" />&ensp;</a>
 </div>
 &ensp;
 </div>
