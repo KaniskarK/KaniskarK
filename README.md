@@ -49,7 +49,7 @@
     &ensp;
     <a href="https://www.arduino.cc/"> <img alt=".vue" src="./images/arduino.svg" width="32px" /> &ensp;&ensp;</a>
     <a href="https://www.espressif.com/en/products/socs/esp8266"> <img alt="esp8266" src="./images/esp8266.svg" width="36px" /> &ensp;</a>
-    <a href="https://www.raspberrypi.org/"> <img alt="raspberrypi" src="./images/raspberrypi.svg" width="65px" />&ensp;&ensp;</a>
+    <a href="https://www.raspberrypi.org/"> <img alt="raspberrypi" src="./images/raspberrypi.svg" width="36px" />&ensp;&ensp;</a>
     <a href="https://developer.nvidia.com/embedded/jetson-nano-developer-kit"> <img alt="jetson_nano" src="./images/jetsen.svg" width="32px" /> &ensp;</a>
     <a href="https://opencv.org/"> <img alt="opencv" src="./images/opencv.svg" width="32px" /></a>
 </div>
