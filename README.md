@@ -9,7 +9,7 @@
 - Currently learning `Mern`
 - Working on my react website!
 - Checkout my other projects!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaniskark&label=Profile%20views&color=0e75b6&style=flat" alt="kaniskark" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KaniskarK&label=Profile%20views&color=0e75b6&style=flat" alt="kaniskark" /> </p>
 <p align="left">
 <img alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaniskarK&layout=compact&hide_border=true&bg_color=1b2731&text_color=ebdfe2&title_color=eb1622&langs_count=10&hide=procfile&exclude_repo=dice,blog">
 </p>
