@@ -23,7 +23,7 @@
 <a href="https://stackoverflow.com/users/19772425/kaniskar" target="blank"><img align="center" src="./images/stackoverflow.svg" alt="kaniskar01" height="100" width="80" /></a>
 <a href="https://www.codechef.com/users/kaniskar_61" target="blank"><img align="center" src="./images/code.svg" alt="kaniskar_61" height="100" width="80" /></a>
 <a href="https://www.hackerrank.com/kaniskar01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kaniskar" height="100" width="80" /></a>
-<a href="https://leetcode.com/KANISKAR/" target="blank"><img align="center" src="./images/Leetcode.svg" alt="kaniskar" height="100" width="80" /></a>
+<a href="https://leetcode.com/KANISKAR/" target="blank"><img align="center" src="./images/leetcode.svg" alt="kaniskar" height="100" width="80" /></a>
 </p>
 
 ### My stacks:
