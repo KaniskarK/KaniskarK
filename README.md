@@ -17,7 +17,7 @@
 <img align="right" alt="GitHub Streak" width="480px" src="https://github-readme-streak-stats.herokuapp.com?user=KaniskarK&theme=vue-dark&hide_border=true">&ensp;
 
 
-<h3 align="left">Connect with me:</h3>
+### Connect With Me:
 <p align="left">
 <a href="https://www.linkedin.com/in/kaniskar-k-a22520200/" target="blank"><img align="center" src="./images/linkedin.svg" alt="kaniskar" height="100" width="80" /></a>
 <a href="https://stackoverflow.com/users/19772425/kaniskar" target="blank"><img align="center" src="./images/stackoverflow.svg" alt="kaniskar01" height="100" width="80" /></a>
