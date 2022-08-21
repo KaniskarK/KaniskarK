@@ -19,11 +19,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kaniskar-k-a22520200/" target="blank"><img align="center" src=""https://img.icons8.com/color/144/000000/linkedin-circled--v1.png"/" alt="kaniskar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/kaniskar01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaniskar01" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kaniskar_61" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kaniskar_61" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kaniskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kaniskar" height="30" width="40" /></a>
-<a href="https://leetcode.com/KANISKAR/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kaniskar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kaniskar-k-a22520200/" target="blank"><img align="center" src="./images/linkedin.svg" alt="kaniskar" height="100" width="80" /></a>
+<a href="https://stackoverflow.com/users/19772425/kaniskar" target="blank"><img align="center" src="./images/stackoverflow.svg" alt="kaniskar01" height="100" width="80" /></a>
+<a href="https://www.codechef.com/users/kaniskar_61" target="blank"><img align="center" src="./images/code.svg" alt="kaniskar_61" height="100" width="80" /></a>
+<a href="https://www.hackerrank.com/kaniskar01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kaniskar" height="100" width="80" /></a>
+<a href="https://leetcode.com/KANISKAR/" target="blank"><img align="center" src="./images/Leetcode.svg" alt="kaniskar" height="100" width="80" /></a>
 </p>
 
 ### My stacks:
