@@ -15,7 +15,7 @@
 </p>
 
 <img align="right" alt="GitHub Streak" width="480px" src="https://github-readme-streak-stats.herokuapp.com?user=KaniskarK&theme=vue-dark&hide_border=true">&ensp;
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaniskarK&theme=github_dark)
 
 ### Connect With Me:
 <p align="left">
