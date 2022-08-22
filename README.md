@@ -2,7 +2,7 @@
 <h3 align="center">A passionate IoT Developer and Frontend Developer from India</h3>
 
 
-<img align="right" alt="desk" width="380px" src="./images/programmer.gif">
+<img align="right" alt="desk" width="320px" src="./images/programmer.gif">
 &ensp;
 
 - `IoT` & `Front-end` Developer
@@ -56,12 +56,16 @@
 </div>
 &ensp;
 <div>
-    &ensp;&ensp;
+    &ensp;&ensp;&ensp;&ensp;
     <a href="https://www.ryzerobotics.com/tello"> <img alt="tello" src="./images/tello.svg" width="36px" /> &ensp;&ensp;</a>
     <a href="https://pjreddie.com/darknet/yolo/"> <img alt="yolo" src="./images/yolo.svg" width="36px" /> &ensp;&ensp;</a>
     <a href="https://www.metasploit.com/"> <img alt="metasploit" src="./images/metasploit.svg" width="36px" /> &ensp;&ensp;</a>
     <a href="https://nmap.org/"> <img alt="nmap" src="./images/nmap.svg" width="50px" /> &ensp;&ensp;</a>
-    <a href="https://www.maltego.com/"> <img alt="maltego" src="./images/maltego.svg" height="50px" width="70px" />&ensp;</a>
+</div>
+&ensp;
+<div>
+    &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+    <a href="https://www.maltego.com/"> <img alt="maltego" src="./images/maltego.svg" width="140px" />&ensp;</a>
 </div>
 &ensp;
 </div>
