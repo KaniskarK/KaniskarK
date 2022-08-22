@@ -14,8 +14,7 @@
 <img alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaniskarK&layout=compact&hide_border=true&bg_color=1b2731&text_color=ebdfe2&title_color=eb1622&langs_count=10&hide=procfile&exclude_repo=dice,blog">
 </p>
 
-<img align="right" alt="GitHub Streak" width="380px" src="https://github-readme-streak-stats.herokuapp.com?user=KaniskarK&theme=solarized-dark">&ensp;
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaniskarK&theme=github_dark)
+<img align="right" alt="GitHub Streak" width="450px" src="https://github-readme-streak-stats.herokuapp.com?user=KaniskarK&theme=solarized-dark">&ensp;
 
 ### Connect With Me:
 <p align="left">
