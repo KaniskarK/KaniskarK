@@ -44,7 +44,7 @@
     <a href="https://javascript.info/"> <img alt="javascript" src="./images/javascript.svg" width="36px" /> &ensp;&ensp;</a>
     <a href="https://reactjs.org/"> <img alt="react" src="./images/react.svg" width="36px" /> &ensp;&ensp;</a>
     <a href="https://www.mysql.com/"> <img alt="mysql" src="./images/mysql.svg" width="36px" /> &ensp;&ensp;</a>
-<!--     <a href="https://www.mongodb.com/"> <img alt="mongodb" src="./images/mongodb.svg" width="36px" /></a> -->
+    <a href="https://nmap.org/"> <img alt="nmap" src="./images/nmap.svg" width="50px" /> &ensp;&ensp;</a>
 </div>
 &ensp;
 <div>
@@ -53,20 +53,23 @@
     <a href="https://www.espressif.com/en/products/socs/esp8266"> <img alt="esp8266" src="./images/esp8266.svg" width="36px" /> &ensp;&ensp;</a>
     <a href="https://www.raspberrypi.org/"> <img alt="raspberrypi" src="./images/raspberrypi.svg" width="36px" />&ensp;&ensp;</a>
     <a href="https://developer.nvidia.com/embedded/jetson-nano-developer-kit"> <img alt="jetson_nano" src="./images/jetsen.svg" width="36px" /> &ensp;&ensp;</a>
-    <a href="https://opencv.org/"> <img alt="opencv" src="./images/opencv.svg" width="36px" /></a>
+    <a href="https://www.maltego.com/"> <img alt="maltego" src="./images/maltego.svg" width="140px" />&ensp;</a>
 </div>
 &ensp;
 <div>
     &ensp;&ensp;&ensp;&ensp;
-<!--     <a href="https://www.ryzerobotics.com/tello"> <img alt="tello" src="./images/tello.svg" width="36px" /> &ensp;&ensp;</a> -->
-<!--     <a href="https://pjreddie.com/darknet/yolo/"> <img alt="yolo" src="./images/yolo.svg" width="36px" /> &ensp;&ensp;</a> -->
+    
     <a href="https://www.metasploit.com/"> <img alt="metasploit" src="./images/metasploit.svg" width="36px" /> &ensp;&ensp;</a>
-    <a href="https://nmap.org/"> <img alt="nmap" src="./images/nmap.svg" width="50px" /> &ensp;&ensp;</a>
+    
 </div>
 &ensp;
 <div>
     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-    <a href="https://www.maltego.com/"> <img alt="maltego" src="./images/maltego.svg" width="140px" />&ensp;</a>
+   
+  <!--     <a href="https://www.ryzerobotics.com/tello"> <img alt="tello" src="./images/tello.svg" width="36px" /> &ensp;&ensp;</a> -->
+  <!--     <a href="https://pjreddie.com/darknet/yolo/"> <img alt="yolo" src="./images/yolo.svg" width="36px" /> &ensp;&ensp;</a> -->
+  <!--     <a href="https://www.mongodb.com/"> <img alt="mongodb" src="./images/mongodb.svg" width="36px" /></a> -->
+  <!--     <a href="https://opencv.org/"> <img alt="opencv" src="./images/opencv.svg" width="36px" /></a> -->
 </div>
 &ensp;
 </div>
