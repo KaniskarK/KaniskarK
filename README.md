@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaniskar K</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;IoT+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;IoT+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+<!--   DS%20|%20AI%20|%20ML%20Enthusiastic; -->
 </p>
 
 <img align="right" alt="programmer" width="320px" src="./images/programmer.gif">
@@ -57,8 +58,7 @@
 </div>
 &ensp;
 <div>
-    &ensp;&ensp;&ensp;&ensp;
-    
+    &ensp;&ensp;
     <a href="https://www.metasploit.com/"> <img alt="metasploit" src="./images/metasploit.svg" width="36px" /> &ensp;&ensp;</a>
     
 </div>
