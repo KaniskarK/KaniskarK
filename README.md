@@ -54,12 +54,12 @@
     <a href="https://www.espressif.com/en/products/socs/esp8266"> <img alt="esp8266" src="./images/esp8266.svg" width="36px" /> &ensp;&ensp;</a>
     <a href="https://www.raspberrypi.org/"> <img alt="raspberrypi" src="./images/raspberrypi.svg" width="36px" />&ensp;&ensp;</a>
     <a href="https://developer.nvidia.com/embedded/jetson-nano-developer-kit"> <img alt="jetson_nano" src="./images/jetsen.svg" width="36px" /> &ensp;&ensp;</a>
-    <a href="https://www.maltego.com/"> <img alt="maltego" src="./images/maltego.svg" width="140px" />&ensp;</a>
+    <a href="https://www.maltego.com/"> <img alt="maltego" src="./images/metasploit.svg" width="140px" />&ensp;</a>
 </div>
 &ensp;
 <div>
     &ensp;&ensp;
-    <a href="https://www.metasploit.com/"> <img alt="metasploit" src="./images/metasploit.svg" width="36px" /> &ensp;&ensp;</a>
+    <a href="https://www.metasploit.com/"> <img alt="metasploit" src="./images/maltego.svg" width="36px" /> &ensp;&ensp;</a>
     
 </div>
 &ensp;
