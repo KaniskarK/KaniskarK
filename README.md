@@ -59,7 +59,7 @@
 &ensp;
 <div>
     &ensp;&ensp;
-    <a href="https://www.metasploit.com/"> <img alt="metasploit" src="./images/maltego.svg" width="140px" /> &ensp;&ensp;</a>
+    <a href="https://www.metasploit.com/"> <img alt="metasploit" src="./images/maltego.svg" width="120px" /> &ensp;&ensp;</a>
     
 </div>
 &ensp;
