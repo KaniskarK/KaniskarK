@@ -23,7 +23,7 @@
 <a href="https://www.linkedin.com/in/kaniskar-k-a22520200/" target="blank"><img align="center" src="./images/linkedin.svg" alt="kaniskar"  width="50" />&ensp;&ensp;</a>
 <a href="https://stackoverflow.com/users/19772425/kaniskar" target="blank"><img align="center" src="./images/stackoverflow.svg" alt="kaniskar01" width="40" />&ensp;&ensp;</a>
 <a href="https://www.codechef.com/users/kaniskar_61" target="blank"><img align="center" src="./images/code.svg" alt="kaniskar_61"  width="40" />&ensp;&ensp;</a>
-<a href="https://www.hackerrank.com/kaniskar01" target="blank"><img align="center" src="./images/hackerrank.svg" alt="kaniskar"  width="40" />&ensp;&ensp;</a>
+<a href="https://www.hackerrank.com/kaniskar_cs20" target="blank"><img align="center" src="./images/hackerrank.svg" alt="kaniskar"  width="40" />&ensp;&ensp;</a>
 <a href="https://leetcode.com/KANISKAR/" target="blank"><img align="center" src="./images/leetcode.svg" alt="kaniskar"  width="40" /></a>
 </p>
 
