@@ -1,77 +1,82 @@
 <h1 align="center">Hi 👋, I'm Kaniskar K</h1>
+<h3 align="center">Software Developer | DevOps Engineer</h3>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;IoT+Developer;Network+Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-<!--   DS%20|%20AI%20|%20ML%20Enthusiastic; -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=DevOps+Engineer;.NET+Developer;Angular+Developer;CI/CD+Automation&center=true&width=500&height=45&color=00C4FF&vCenter=true">
+  </a>
 </p>
 
-<img align="right" alt="programmer" width="320px" src="./images/programmer.gif">
-&ensp;
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="devops" width="400px">
+</div>
 
-- `IoT` & `Front-end` Developer
-- Currently learning `Mern`
-- Working on my react website!
-- Checkout my other projects!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KaniskarK&label=Profile%20views&color=0e75b6&style=flat" alt="kaniskark" /></p>
-<p align="left">
-<img alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaniskarK&layout=compact&hide_border=true&bg_color=1b2731&text_color=ebdfe2&title_color=eb1622&langs_count=10&hide=procfile&exclude_repo=dice,blog">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KaniskarK&label=PROFILE+VIEWS&color=blue&style=flat-square" alt="profile views">
 </p>
 
-<img align="right" alt="GitHub Streak" width="450px" src="https://github-readme-streak-stats.herokuapp.com?user=KaniskarK&theme=solarized-dark">&ensp;
+---
 
-### Connect With Me:
-<p align="left">
-<a href="https://www.linkedin.com/in/kaniskark/" target="blank"><img align="center" src="./images/linkedin.svg" alt="kaniskar"  width="50" />&ensp;&ensp;</a>
-<a href="https://stackoverflow.com/users/19772425/kaniskar" target="blank"><img align="center" src="./images/stackoverflow.svg" alt="kaniskar01" width="40" />&ensp;&ensp;</a>
-<a href="https://www.codechef.com/users/kaniskar_61" target="blank"><img align="center" src="./images/code.svg" alt="kaniskar_61"  width="40" />&ensp;&ensp;</a>
-<a href="https://www.hackerrank.com/kaniskar_cs20" target="blank"><img align="center" src="./images/hackerrank.svg" alt="kaniskar"  width="40" />&ensp;&ensp;</a>
-<a href="https://leetcode.com/KANISKAR/" target="blank"><img align="center" src="./images/leetcode.svg" alt="kaniskar"  width="40" /></a>
+### 🔧 Professional Summary  
+Software Developer with 1+ years of experience specializing in:
+- CI/CD pipeline implementation (50% deployment time reduction)
+- .NET Core API development
+- Real-time monitoring with Grafana/Prometheus
+- Database management (MSSQL)
+- Cross-platform automation solutions
+
+---
+
+### ⚡ GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaniskarK&show_icons=true&theme=react&count_private=true" alt="stats" width="45%">
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KaniskarK&theme=react" alt="streak" width="45%">
 </p>
 
-### My stacks:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaniskarK&layout=compact&theme=react&langs_count=8&hide=procfile&exclude_repo=dice,blog" alt="languages">
+</p>
 
-<div align="left">
-<div>
-    &ensp;&ensp;
-    <a href="(https://en.wikipedia.org/wiki/C_(programming_language)"> <img alt=".c" src="./images/c.svg" width="36px" />&ensp;&ensp;</a>
-    <a href="(https://cplusplus.com/doc/tutorial/)"> <img alt="cpp" src="./images/c++.svg" width="36px" /> &ensp;&ensp;</a>
-    <a href="https://www.python.org/"> <img alt="py" src="./images/python.svg" width="36px" /> &ensp;&ensp;</a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> <img alt="htm" src="./images/html.svg" width="36px" /> &ensp;&ensp;</a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img alt="css" src="./images/css.svg" width="36px" /></a>
-</div>
-&ensp;
-<div>
-    &ensp;&ensp;
-    <a href="https://www.linux.org/"> <img alt="Linux" src="./images/linux.svg" width="36px" /> &ensp;&ensp;</a>
-    <a href="https://javascript.info/"> <img alt="javascript" src="./images/javascript.svg" width="36px" /> &ensp;&ensp;</a>
-    <a href="https://reactjs.org/"> <img alt="react" src="./images/react.svg" width="36px" /> &ensp;&ensp;</a>
-    <a href="https://www.mysql.com/"> <img alt="mysql" src="./images/mysql.svg" width="36px" /> &ensp;&ensp;</a>
-    <a href="https://nmap.org/"> <img alt="nmap" src="./images/nmap.svg" width="50px" /> &ensp;&ensp;</a>
-</div>
-&ensp;
-<div>
-    &ensp;&ensp;
-    <a href="https://www.arduino.cc/"> <img alt="arduino" src="./images/arduino.svg" width="36px" /> &ensp;&ensp;</a>
-    <a href="https://www.espressif.com/en/products/socs/esp8266"> <img alt="esp8266" src="./images/esp8266.svg" width="36px" /> &ensp;&ensp;</a>
-    <a href="https://www.raspberrypi.org/"> <img alt="raspberrypi" src="./images/raspberrypi.svg" width="36px" />&ensp;&ensp;</a>
-    <a href="https://developer.nvidia.com/embedded/jetson-nano-developer-kit"> <img alt="jetson_nano" src="./images/jetsen.svg" width="36px" /> &ensp;&ensp;</a>
-    <a href="https://www.maltego.com/"> <img alt="maltego" src="./images/metasploit.svg" width="36px" />&ensp;</a>
-</div>
-&ensp;
-<div>
-    &ensp;&ensp;
-    <a href="https://www.metasploit.com/"> <img alt="metasploit" src="./images/maltego.svg" height = "50px" width="120px" />&ensp;</a>
-    <a href="https://www.docker.com"> <img alt="docker" src="./images/docker.svg" width="70px" />&ensp;</a>
-    
-</div>
-&ensp;
-<div>
-    &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-   
-  <!--     <a href="https://www.ryzerobotics.com/tello"> <img alt="tello" src="./images/tello.svg" width="36px" /> &ensp;&ensp;</a> -->
-  <!--     <a href="https://pjreddie.com/darknet/yolo/"> <img alt="yolo" src="./images/yolo.svg" width="36px" /> &ensp;&ensp;</a> -->
-  <!--     <a href="https://www.mongodb.com/"> <img alt="mongodb" src="./images/mongodb.svg" width="36px" /></a> -->
-  <!--     <a href="https://opencv.org/"> <img alt="opencv" src="./images/opencv.svg" width="36px" /></a> -->
-</div>
-&ensp;
-</div>
-&ensp;
+---
+
+### 🛠️ Tech Stack
+
+#### DevOps & Monitoring
+<p align="center">
+  <a href="https://www.jenkins.io" title="Jenkins"><img src="https://img.icons8.com/color/48/000000/jenkins.png" width="40"/></a>
+  <a href="https://www.docker.com" title="Docker"><img src="https://img.icons8.com/color/48/000000/docker.png" width="40"/></a>
+  <a href="https://grafana.com" title="Grafana"><img src="https://img.icons8.com/color/48/000000/grafana.png" width="40"/></a>
+</p>
+
+#### Frameworks & Databases
+<p align="center">
+  <!--<a href="https://dotnet.microsoft.com/net-framework" title=".NET Framework"><img src="https://img.icons8.com/color/48/000000/net-framework.png" width="40"/></a>-->
+  <a href="https://dotnet.microsoft.com/net-core" title=".NET Core"><img src="https://img.icons8.com/color/48/000000/net-framework.png" width="40"/></a>
+  <a href="https://angular.io" title="Angular"><img src="https://img.icons8.com/color/48/000000/angularjs.png" width="40"/></a>
+  <a href="https://www.microsoft.com/sql-server" title="MSSQL"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="40"/></a>
+</p>
+
+#### Programming Languages
+<p align="center">
+  <a href="https://learn.microsoft.com/dotnet/csharp/" title="C#"><img src="https://img.icons8.com/color/48/c-sharp-logo.png" width="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://img.icons8.com/color/48/000000/c-programming.png" width="40"/></a>
+  <a href="https://isocpp.org" title="C++"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="40"/></a>
+</p>
+
+---
+
+### 📞 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/kaniskark">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="45"/>
+  </a>
+  <a href="mailto:kaniskark@outlook.com">
+    <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" width="45"/>
+  </a>
+  <a href="https://github.com/KaniskarK">
+    <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="45"/>
+  </a>
+</p>
+
+---
