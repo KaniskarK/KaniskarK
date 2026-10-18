@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated, 0-100. Edit these and the Charts workflow redraws the radar.",
+  "axes": [
+    { "label": ".NET Core 8+ / ASP.NET", "value": 92 },
+    { "label": "Angular 18+ (Reactive)", "value": 88 },
+    { "label": "Azure Cloud & Storage",   "value": 86 },
+    { "label": "CI/CD & Jenkins",         "value": 85 },
+    { "label": "Observability (Grafana)",  "value": 84 },
+    { "label": "Security (SAML/OAuth)",    "value": 85 },
+    { "label": "Database (MSSQL)",        "value": 88 }
+  ]
+}

@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kaniskar K - Profile Assets Preview</title>
+  <style>
+    :root { color-scheme: dark }
+    body {
+      background: #0a0e17;
+      color: #c9d1d9;
+      font: 15px/1.5 ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      margin: 0;
+      padding: 40px;
+    }
+    h1 {
+      font-size: 24px;
+      color: #00D2FF;
+      letter-spacing: .02em;
+      margin-bottom: 6px;
+    }
+    .subtitle {
+      color: #8b949e;
+      font-size: 14px;
+      margin-bottom: 28px;
+    }
+    h2 {
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: .12em;
+      color: #8b949e;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 8px;
+      margin: 44px 0 18px;
+    }
+    .row {
+      display: flex;
+      gap: 28px;
+      flex-wrap: wrap;
+      align-items: flex-start;
+    }
+    .card {
+      background: #0d1117;
+      border: 1px solid #21262d;
+      border-radius: 12px;
+      padding: 20px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.3);
+    }
+    .card.light {
+      background: #ffffff;
+      border-color: #d0d7de;
+    }
+    .tag {
+      font: 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      color: #00D2FF;
+      display: block;
+      margin-bottom: 12px;
+    }
+    .card.light .tag {
+      color: #0969da;
+    }
+    img {
+      display: block;
+      max-width: 100%;
+      height: auto;
+    }
+    button {
+      background: #21262d;
+      color: #c9d1d9;
+      border: 1px solid #30363d;
+      border-radius: 6px;
+      padding: 5px 12px;
+      font: inherit;
+      font-size: 12px;
+      cursor: pointer;
+      margin-left: 14px;
+      vertical-align: middle;
+      text-transform: none;
+      letter-spacing: 0;
+      transition: all 0.2s ease;
+    }
+    button:hover {
+      background: #30363d;
+      border-color: #00D2FF;
+      color: #00D2FF;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Kaniskar K — Profile Assets Local Preview</h1>
+  <p class="subtitle">Each asset is rendered in both Dark and Light modes, mirroring GitHub's automated color-scheme switching.</p>
+
+  <h2>Live Terminal Banner <button id="replay-banner">Replay Animation</button></h2>
+  <div class="row">
+    <div class="card" style="width: 100%; max-width: 1180px;">
+      <span class="tag">assets/banner-dark.v9.svg (prefers-color-scheme: dark)</span>
+      <img class="banner" data-base="assets/banner-dark.v9.svg" src="assets/banner-dark.v9.svg" width="1180" alt="Dark Banner">
+    </div>
+    <div class="card light" style="width: 100%; max-width: 1180px;">
+      <span class="tag">assets/banner-light.v9.svg (prefers-color-scheme: light)</span>
+      <img class="banner" data-base="assets/banner-light.v9.svg" src="assets/banner-light.v9.svg" width="1180" alt="Light Banner">
+    </div>
+  </div>
+
+  <h2>Dithered Portrait <button id="replay-portrait">Replay Scan</button></h2>
+  <div class="row">
+    <div class="card">
+      <span class="tag">assets/portrait-dark.svg</span>
+      <img class="portrait" data-base="assets/portrait-dark.svg" src="assets/portrait-dark.svg" width="340" alt="Dark Portrait">
+    </div>
+    <div class="card light">
+      <span class="tag">assets/portrait-light.svg</span>
+      <img class="portrait" data-base="assets/portrait-light.svg" src="assets/portrait-light.svg" width="340" alt="Light Portrait">
+    </div>
+  </div>
+
+  <h2>Skill Radar &amp; Language Stack</h2>
+  <div class="row">
+    <div class="card">
+      <span class="tag">assets/radar-dark.svg</span>
+      <img src="assets/radar-dark.svg" width="440" alt="Skill Radar Dark">
+    </div>
+    <div class="card light">
+      <span class="tag">assets/radar-light.svg</span>
+      <img src="assets/radar-light.svg" width="440" alt="Skill Radar Light">
+    </div>
+    <div class="card">
+      <span class="tag">assets/radar-langs-dark.svg</span>
+      <img src="assets/radar-langs-dark.svg" width="440" alt="Language Radar Dark">
+    </div>
+    <div class="card light">
+      <span class="tag">assets/radar-langs-light.svg</span>
+      <img src="assets/radar-langs-light.svg" width="440" alt="Language Radar Light">
+    </div>
+  </div>
+
+  <h2>GitHub Statistics Cards</h2>
+  <div class="row">
+    <div class="card">
+      <span class="tag">assets/card-stats-dark.svg</span>
+      <img src="assets/card-stats-dark.svg" width="480" alt="Stats Card Dark">
+    </div>
+    <div class="card light">
+      <span class="tag">assets/card-stats-light.svg</span>
+      <img src="assets/card-stats-light.svg" width="480" alt="Stats Card Light">
+    </div>
+  </div>
+
+  <script>
+    document.getElementById('replay-banner').onclick = () => {
+      document.querySelectorAll('img.banner').forEach(img => {
+        img.src = img.dataset.base + '?' + Date.now();
+      });
+    };
+    document.getElementById('replay-portrait').onclick = () => {
+      document.querySelectorAll('img.portrait').forEach(img => {
+        img.src = img.dataset.base + '?' + Date.now();
+      });
+    };
+  </script>
+</body>
+</html>

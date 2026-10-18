@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos & projects, in README order.",
+  "projects": [
+    {
+      "repo": "RoboBoat-Autonomous-Surface-Vehicle",
+      "description": "Autonomous watercraft navigation and obstacle detection system using YOLOv4 and Python. Awarded $300 at RoboNation 2022 international competition in the USA."
+    },
+    {
+      "repo": "Crack-Detection-Using-Tello-Drone",
+      "description": "Autonomous structural inspection and surface crack identification system using Tello Drone and HaarCascade computer vision in Python."
+    },
+    {
+      "repo": "Life-Guard-Gloves-IoT",
+      "description": "Smart wearable sensory gloves built with Embedded C and IoT sensors for emergency response and safety monitoring. Awarded 2nd place at Electronic Wings 2K21."
+    },
+    {
+      "repo": "Enterprise-Observability-Pipeline",
+      "description": "High-throughput Windows service aggregating telemetry across 350+ databases with Prometheus, Loki, Alloy, and real-time Grafana dashboards."
+    }
+  ]
+}
