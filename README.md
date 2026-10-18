@@ -39,7 +39,7 @@ I specialize in building secure, resilient enterprise web architectures and high
 
 - 🏢 **Full Stack Engineer at [Adrenalin eSystems (Polaris Group)](https://www.myadrenalin.com/)**: Developing mission-critical web applications with **.NET Core 8**, **.NET Framework**, and **Angular 18+ (Reactive Forms)**; leading the modernization of legacy ASP.NET Web Forms into modular, scalable micro-solutions.
 - ⚡ **CI/CD & DevOps Automation**: Automated continuous integration and deployment pipelines using **Jenkins** and batch scripts, slashing release times by **50%** and manual overhead by **80%**.
-- 📊 **Large-Scale Observability**: Engineered data aggregation Windows services operating across **350+ enterprise databases** with **Prometheus**, **Loki**, **Alloy**, and real-time **Grafana** operational dashboards.
+- 📊 **Large-Scale Observability & Data Architecture**: Engineered data aggregation Windows services operating across **350+ enterprise Microsoft SQL Server (MSSQL) databases** with **Prometheus**, **Loki**, **Alloy**, and real-time **Grafana** operational dashboards.
 - 🔐 **Security & Cloud Infrastructure**: Hardening endpoints using **Burp Suite**, implementing **SAML 2.0 / OAuth 2.0** authentication flows, and integrating **Azure Blob Storage** for high-volume document workflows.
 - 🚤 **International Robotics & IoT Awards**:
   - **ROBOBOAT 2022 (RoboNation, USA)**: International award winner ($300 prize) for building an Autonomous Surface Water Vehicle with YOLOv4 and Python.
@@ -57,7 +57,11 @@ I specialize in building secure, resilient enterprise web architectures and high
 
 ## my perfect stack
 
-<img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,js,azure,docker,jenkins,grafana,prometheus,git,github,vscode,visualstudio,cpp,py,mysql&perline=8" alt="tech stack">
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/techstack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/techstack-light.svg">
+  <img src="assets/techstack-dark.svg" alt="tech stack">
+</picture>
 
 </div>
 

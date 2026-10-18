@@ -2,11 +2,11 @@
   "title": "Language & Core Stack",
   "_comment": "Hand-authored stack radar. Values 0-100. Edit these and the Charts workflow redraws it.",
   "axes": [
-    { "label": "C#",         "value": 94 },
-    { "label": "TypeScript", "value": 88 },
-    { "label": "SQL",        "value": 86 },
-    { "label": "JavaScript", "value": 85 },
-    { "label": "Python",     "value": 80 },
-    { "label": "C++",        "value": 75 }
+    { "label": "C#",            "value": 94 },
+    { "label": "TypeScript",    "value": 88 },
+    { "label": "T-SQL / MSSQL", "value": 88 },
+    { "label": "JavaScript",    "value": 85 },
+    { "label": "PowerShell",    "value": 80 },
+    { "label": "C++",           "value": 75 }
   ]
 }

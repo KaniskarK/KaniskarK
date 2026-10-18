@@ -35,16 +35,14 @@ ROWS = [
     ("Origin", "Chennai, India"),
     ("Education", "Bannari Amman Inst. (CGPA 8.81)"),
     ("Experience", "2+ Years Enterprise Engineering"),
-    ("Company", "Adrenalin eSystems (Polaris)"),
     ("Status", "Building + Modernizing + Shipping"),
+    ("ToolChain", "Visual Studio · VS Code · Git"),
     ("Core.Backend", ".NET Core 8+ · ASP.NET · C#"),
     ("Core.Frontend", "Angular 18+ · TypeScript · Cypress"),
+    ("Core.Database", "Microsoft SQL Server · MSSQL"),
     ("Core.Cloud", "Azure · Docker · Jenkins CI/CD"),
     ("Core.Observe", "Grafana · Prometheus · Loki"),
     ("Core.Security", "SAML 2.0 · OAuth 2.0 · Burp Suite"),
-    ("Grid.LinkedIn", "/in/kaniskark"),
-    ("Grid.GitHub", "KaniskarK"),
-    ("Grid.Mail", "kaniskark@outlook.com"),
 ]
 
 THEMES = {
@@ -399,7 +397,10 @@ def render_svg(
     )
 
     value_right = 1127.0
-    row_y = 153.0
+    y_start = 162.0
+    y_end = 495.0
+    row_step = (y_end - y_start) / max(1, len(ROWS) - 1)
+    row_y = y_start
     for label, value in ROWS:
         value_len = text_width(value, 14)
         label_len = text_width(label, 14)
@@ -418,7 +419,7 @@ def render_svg(
                 f"{html.escape(value)}</text>",
             ]
         )
-        row_y += 23
+        row_y += row_step
 
     parts.extend(
         [
